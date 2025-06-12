@@ -1,0 +1,13 @@
+# Child Git repositories - ignore them
+activity-tagger/
+activity-tagger-repo/
+aw-context-tool/
+activitywatch/
+activitywatch-mcp-server/
+
+# OS Files
+.DS_Store
+
+# Build artifacts
+.build/
+*.swp
