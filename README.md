@@ -54,7 +54,7 @@ The main ActivityWatch application (included as a submodule).
 
 - [ActivityWatch](https://activitywatch.net/) installed and running
 - Node.js 18+ (for MCP server)
-- Swift 5.9+ (for activity-tagger)
+- Swift 5.9+ (for aw-context-tool)
 - An MCP-compatible AI client (like Claude Desktop)
 
 ### Installation
@@ -72,9 +72,9 @@ npm install
 npm run build
 ```
 
-3. Build the activity tagger:
+3. Build the aw-context-tool:
 ```bash
-cd ../activity-tagger
+cd ../aw-context-tool
 swift build
 ```
 
@@ -116,7 +116,7 @@ swift run aw-context search --tag "project:opens-time-chat"
 ```
 opens-time-chat/
 ├── activitywatch-mcp-server/  # MCP server for AI integration
-├── activity-tagger/           # Swift CLI for context annotation
+├── aw-context-tool/           # Swift CLI for context annotation
 ├── activitywatch/            # ActivityWatch core (submodule)
 └── CLAUDE.md                 # Development guidelines
 ```
