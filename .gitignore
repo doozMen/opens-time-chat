@@ -2,6 +2,7 @@
 aw-context-tool/
 activitywatch/
 activitywatch-mcp-server/
+dateutil-swift/
 
 # OS Files
 .DS_Store
