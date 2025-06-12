@@ -1,6 +1,4 @@
 # Child Git repositories - ignore them
-activity-tagger/
-activity-tagger-repo/
 aw-context-tool/
 activitywatch/
 activitywatch-mcp-server/
