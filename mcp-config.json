@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "activitywatch": {
+      "command": "node",
+      "args": ["/Users/stijnwillems/Developer/opens-time-chat/activitywatch-mcp-server/dist/index.js"]
+    }
+  }
+}
