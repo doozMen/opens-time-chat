@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__activitywatch__activitywatch_list_buckets",
+      "mcp__activitywatch__activitywatch_run_query",
+      "Bash(git add:*)",
+      "mcp__activitywatch__activitywatch_get_events",
+      "mcp__activitywatch__activitywatch_query_examples",
+      "Bash(python3:*)"
+    ],
+    "deny": []
+  }
+}
