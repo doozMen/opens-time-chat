@@ -4,6 +4,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Overview
 
+This project is not for Mediahuis but for my own always use github never gitlab
+
 This repository contains two main projects:
 
 1. **ActivityWatch MCP Server** (`activitywatch-mcp-server/`) - A Model Context Protocol server for ActivityWatch integration with LLMs
@@ -106,3 +108,4 @@ The MCP server connects to ActivityWatch at `http://localhost:5600` and provides
 - `run-query` - Execute AQL queries
 - `get-events` - Retrieve raw events
 - `get-settings` - Access ActivityWatch settings
+```

@@ -3,6 +3,7 @@ aw-context-tool/
 activitywatch/
 activitywatch-mcp-server/
 dateutil-swift/
+wispr-flow-reader/
 
 # OS Files
 .DS_Store
